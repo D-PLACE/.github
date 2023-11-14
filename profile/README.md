@@ -1,1 +1,4 @@
-Database of Places, Language, Culture and Environment
+# D-PLACE - the Database of Places, Language, Culture and Environment
+
+D-PLACE is a collection of datasets describing [societies](https://d-place.org/glossary#q4), i.e. cultural groups.
+A crucial piece of information available for each society in a D-PLACE dataset is a [Glottocode](https://content.iospress.com/articles/semantic-web/sw212843), i.e. an identifier for a languoid in the [Glottolog database](https://glottolog.org). This link between societies and languages (or language groups or dialects) sometimes allows to identify societies across datasets, but it also allows to analyse cultural data using evolutionary accounts of the related languages (aka language phylogenies) as a backdrop. Such language phylogenies (also in the [CLDF](https://cldf.clld.org), thus readily interoperable) are collected in the sister project [Phlorest](https://github.com/phlorest).
